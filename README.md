@@ -10,7 +10,7 @@
 - 🎓 Industrial Engineering → AI & Software Engineering Major (Career Shift)  
 - 🌱 Currently working on **K-Mate** (K-Mate: A Travel Guide Platform for International Tourists in Korea)  
 - 🔍 Exploring **NestJS, TypeORM, MySQL** for backend & **React, Next.js, TailwindCSS** for frontend  
-- 🏆 Certifications: **AWS Cloud Practitioner**, **Engineer Information Processing(Korea’s national IT engineer certification) – Written Exam Passed, Practical Exam in Progress**, **Microsoft Certified Azure Fundamentals- AZ-900(Cloud), AI-900(AI), DP-900(Big Data)**  
+- 🏆 Certifications: **AWS Cloud Practitioner**, **Engineer Information Processing(Korea’s national IT engineer certification)**, **Microsoft Certified Azure Fundamentals- AZ-900(Cloud), AI-900(AI), DP-900(Big Data)**  
 - 💬 I enjoy sharing what I learn on my [Tech Blog](https://blog.naver.com/colabdiary)
 
 ---
@@ -108,7 +108,7 @@
  
 ## 🧑‍💻 자격 및 활동
 
-- 정보처리기사 필기합격 / 실기 준비 중
+- 정보처리기사 자격 취득
 - AWS Cloud Practitioner 자격 취득
 - 신한DS 풀스택 개발자 과정 수료
 - Microsoft Certified: Azure Fundamentals AI-900, DP-900, AZ-900 자격 취득
