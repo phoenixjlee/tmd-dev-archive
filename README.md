@@ -1,3 +1,8 @@
+## 📦 TMD Dev Archive
+
+This repository contains my learning notes, experiments, and projects from the TMD Gen AI web development program.
+
+
 # 🚀 Welcome to my GitHub! I'm Michael, a passionate Web Developer.
 ## 🚀 I am a **Aspiring Full-stack Web Developer**.
 
