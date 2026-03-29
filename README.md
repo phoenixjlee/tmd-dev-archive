@@ -113,6 +113,7 @@ This repository contains my learning notes, experiments, and projects from the T
  
 ## 🧑‍💻 자격 및 활동
 
+- SQLD 자격 취득
 - 정보처리기사 자격 취득
 - 강남구 혁신인재육성 Gen AI 기반 웹 서비스 개발 전문가 양성과정 수료
 - AWS Cloud Practitioner 자격 취득
