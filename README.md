@@ -116,13 +116,13 @@ This repository contains my learning notes, experiments, and projects from the T
 - SQLD 자격 취득
 - 정보처리기사 자격 취득
 - 강남구 혁신인재육성 Gen AI 기반 웹 서비스 개발 전문가 양성과정 수료
-- AWS Cloud Practitioner 자격 취득
+- AWS Certified Cloud Practitioner 자격 취득
 - 신한DS 풀스택 개발자 3기 과정 수료
 - 신한DS 프로젝트부문 우수상 입상 - Smart Pay(카드 혜택 최적화 서비스) 프로젝트
 - Microsoft Certified: Azure Fundamentals AI-900, DP-900, AZ-900 자격 취득
 - 빅데이터 분석 학회(Big Data Analysis) 7기 과정 수료
-- 컴퓨터활용능력 2급
-- HRDI AI활용능력 2급 / 빅데이터분석 실무 2급 / 식스시그마 그린벨트
+- 컴퓨터활용능력 2급 자격 취득
+- HRDI AI활용능력 2급 / 빅데이터분석 실무 2급 / 식스시그마 그린벨트 자격 취득
 
 
 ## 🧑‍💻 기술 스택
